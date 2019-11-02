@@ -1,2 +1,2 @@
 # momo
-Simple todo application
+A simple todo application built for the console
